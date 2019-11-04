@@ -20,11 +20,14 @@
 
 ### Designing your thesis
 1. Getting a chapter finished is a great accomplishment. Prioritize this over other tasks that may yield short-term rewards. Design your chapters so that they are finishable. It's not glamorous to design something that is feasible, but it will get you graduated and get you a job.
+1. Here's advice on graduate school: https://dynamicecology.wordpress.com/2015/09/08/rereading-stearns-and-hueys-some-modest-advice-to-graduate-students/
+
 
 ### Guiding principles
 Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long.
 
 ### Reviewing
+The BES guide to reviewing is excellent.
 
 ### Authorship and collaboration
 
@@ -43,5 +46,6 @@ Get reasonable rates: book early. Visas. Reimbursment.
 
 ## Work-life balance
 
+Mentoring plan.
 
 I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut (https://bolnicklab.wordpress.com/2015/10/01/labvalues/)
