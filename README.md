@@ -22,3 +22,11 @@
 ## Work-life balance
 
 ## Diversity, equity, and inclusion
+
+## Funding
+
+## Student visas
+
+## Travel claims
+
+## Computing resources
