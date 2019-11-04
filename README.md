@@ -41,7 +41,7 @@ Do meaningful work, that _you_ are proud of, and that _you_ are certain has valu
 ### Conference travel
 Get reasonable rates: book early. Visas. Reimbursment.
 
-### Work-life balance
+## Work-life balance
 
 
 I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut (https://bolnicklab.wordpress.com/2015/10/01/labvalues/)
