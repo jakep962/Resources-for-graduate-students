@@ -15,3 +15,6 @@
 1. Use open source software, if possible.
 1. Archive your code on Figshare and Github.
 1. Consider Github to back up and share your files.
+
+## Designing your thesis
+1. Getting a chapter finished is a great accomplishment. Prioritize this over other tasks that may yield short-term rewards. Design your chapters so that they are finishable.
