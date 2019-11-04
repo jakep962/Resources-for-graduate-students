@@ -30,3 +30,5 @@
 ## Travel claims
 
 ## Computing resources
+
+I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut.
