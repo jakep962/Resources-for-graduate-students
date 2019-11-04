@@ -12,6 +12,7 @@
 1. I recommend you learn Latex and write your thesis in it.
 1. Get feedback from my on your writing early. The more familar you are with the published literature the better your writing will be and the better you will be able to formulate hypotheses and explain your ideas.
 1. Get your peers to read your writing.
+1. How to write a theoretical paper that people with cite http://www.eeb.cornell.edu/Ellner/
 
 ### Coding
 1. Use open source software, if possible.
