@@ -31,4 +31,4 @@
 
 ## Computing resources
 
-I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut.
+I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut (https://bolnicklab.wordpress.com/2015/10/01/labvalues/)
