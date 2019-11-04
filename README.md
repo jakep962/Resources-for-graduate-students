@@ -1,6 +1,6 @@
 # Resources-for-graduate-students
 
-## Your thesis and papers
+## Your thesis
 ### Writing
 1. Please write in active voice and present tense. For a Methods section is may be okay to write in past tense, but try to keep present tense as much as possible.
 1. Read the literature to formulate your hypotheses. Graduate students may avoid something that is hard for them, like coding or reading a technical paper, and instead will read to learn specific facts about the study organism. Every thesis is framed within a broader context: population dynamics in seasonal/stochastic environments, population dynamics given different investment strategies in maturation rate, size at maturation, etc. Read papers on these topics in a very general setting (Am Nat, TREE, Ecology Letters are good journals for this) until you can state a specific hypothesis or translate facts into their relevance for your study question: Threshold growth quantities, such as R0, are equivalent in seasonal and non-seasonal environments only when specific conditions are met regarding which stages can reproduce, and which stage-to-stage transitions are possible (Mitchell and Kribs, 2017). While such conditions are met for sea lice population biology, transient, year round dynamics, and growth rates (in addition to threshold quantities) are key to understanding best management practices for sea lice, and so we aim to extend the current theory describing population growth in seasonal environments in these respects.
@@ -24,13 +24,13 @@
 ### Guiding principles
 Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long.
 
+### Reviewing
+
 ### Authorship and collaboration
 
 ### Computing resources
 
-## Beyond your thesis
-
-### Work-life balance
+## Being a graduate student in the MUN Biology Department
 
 ### Diversity, equity, and inclusion
 
@@ -38,10 +38,10 @@ Do meaningful work, that _you_ are proud of, and that _you_ are certain has valu
 
 ### Student visas
 
-### Travel claims
+### Conference travel
+Get reasonable rates: book early. Visas. Reimbursment.
 
-### Mentoring plan
-
+### Work-life balance
 
 
 I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut (https://bolnicklab.wordpress.com/2015/10/01/labvalues/)
