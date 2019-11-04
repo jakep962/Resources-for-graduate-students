@@ -18,3 +18,7 @@
 
 ## Designing your thesis
 1. Getting a chapter finished is a great accomplishment. Prioritize this over other tasks that may yield short-term rewards. Design your chapters so that they are finishable.
+
+## Work-life balance
+
+## Diversity, equity, and inclusion
