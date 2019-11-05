@@ -39,6 +39,7 @@ The BES guide to reviewing is excellent.
 ### Diversity, equity, and inclusion
 
 ### Funding
+Even before you start at MUN you will need to request the TAships you want.
 
 ### Student visas
 
