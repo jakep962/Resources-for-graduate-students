@@ -47,6 +47,9 @@ Even before you start at MUN you will need to request the TAships you want.
 Get reasonable rates: book early. Visas. Reimbursment.
 
 ## Work-life balance
+I quite like this advice: https://getpocket.com/explore/item/25-simple-daily-habits-that-separate-high-achievers-from-everyone-else?utm_source=pocket-newtab (even though it's pretty spammy). For me, one of the hardest things is protecting time to get everything done. I don't want to seem busy, and I want to seem like I have time to 'hang out'. For example, I need to get a meeting completed within a given amount of time, so that I can get something completed in the last 90 mins of the day. I feel guilty ending the meeting, so I let it continue, and will end up having to do the other task late at night. I think 'Who am I to say my other task is more important, than helping this person in my office?' I think first year graduate students can struggle similarly. You have classes, TAing, and it's easy to say 'Doing well at TAing and classes is more important than my thesis.' The times to finishing at MUN are tight. You need to be agressive about making time for, and making progress on, your thesis from the start.
+
+At times, your thesis will suck. Many of us _love_ research, but research can't be your only thing. Diversify (hobbies outside of work), so that you're experiencing success in at least one area when the thesis 'sucks'. References about failure in science.
 
 Mentoring plan.
 
