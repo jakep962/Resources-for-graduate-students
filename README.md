@@ -1,5 +1,10 @@
 # Resources-for-graduate-students
 
+### Guiding principles
+```
+Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long. Don't judge yourself based on the achievements of your peers. Know your strengths and appreciate them.
+```
+
 ## Your thesis
 ### Writing
 1. Please write in active voice and present tense. For a Methods section is may be okay to write in past tense, but try to keep present tense as much as possible.
@@ -22,9 +27,6 @@
 ### Designing your thesis
 1. Getting a chapter finished is a great accomplishment. Prioritize this over other tasks that may yield short-term rewards. Design your chapters so that they are finishable. It's not glamorous to design something that is feasible, but it will get you graduated and get you a job.
 1. Here's advice on graduate school: https://dynamicecology.wordpress.com/2015/09/08/rereading-stearns-and-hueys-some-modest-advice-to-graduate-students/
-
-### Guiding principles
-Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long.
 
 ### Reviewing
 The BES guide to reviewing is excellent.
