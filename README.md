@@ -1,9 +1,9 @@
 # Resources-for-graduate-students
 
 ### Guiding principles
-```
-Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long. Don't judge yourself based on the achievements of your peers. Know your strengths and appreciate them.
-```
+
+> Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long. Don't judge yourself based on the achievements of your peers. Know your strengths and appreciate them.
+
 
 ## Your thesis
 ### Writing
