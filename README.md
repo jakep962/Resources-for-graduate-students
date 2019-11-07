@@ -23,9 +23,6 @@
 1. Getting a chapter finished is a great accomplishment. Prioritize this over other tasks that may yield short-term rewards. Design your chapters so that they are finishable. It's not glamorous to design something that is feasible, but it will get you graduated and get you a job.
 1. Here's advice on graduate school: https://dynamicecology.wordpress.com/2015/09/08/rereading-stearns-and-hueys-some-modest-advice-to-graduate-students/
 
-### Supervisor management
-Advice from SGS https://www.mun.ca/edge/Prepare/Supervisor_Mgmt/
-
 ### Guiding principles
 Do meaningful work, that _you_ are proud of, and that _you_ are certain has value: editors and reviewers will often agree, but if they don't seek solice in knowing that you didn't cut corners and you put in the work. Good work will eventually get rewarded, but the path to those rewards can sometimes be long.
 
@@ -36,7 +33,10 @@ The BES guide to reviewing is excellent.
 
 ### Computing resources
 
-## Being a graduate student in the MUN Biology Department
+## Being a graduate student in the Biology Department
+
+## Being a gradute student at MUN
+https://www.mun.ca/edge/Prepare/
 
 ### Diversity, equity, and inclusion
 
@@ -49,10 +49,11 @@ Even before you start at MUN you will need to request the TAships you want.
 Get reasonable rates: book early. Visas. Reimbursment.
 
 ## Work-life balance
-I quite like this advice: https://getpocket.com/explore/item/25-simple-daily-habits-that-separate-high-achievers-from-everyone-else?utm_source=pocket-newtab (even though it's pretty spammy). For me, one of the hardest things is protecting time to get everything done. I don't want to seem busy, and I want to seem like I have time to 'hang out'. For example, I need to get a meeting completed within a given amount of time, so that I can get something completed in the last 90 mins of the day. I feel guilty ending the meeting, so I let it continue, and will end up having to do the other task late at night. I think 'Who am I to say my other task is more important, than helping this person in my office?' I think first year graduate students can struggle similarly. You have classes, TAing, and it's easy to say 'Doing well at TAing and classes is more important than my thesis.' The times to finishing at MUN are tight. You need to be agressive about making time for, and making progress on, your thesis from the start.
+As a graduate student you have classes, TAing, and it's easy to say 'Doing well at TAing and classes is more important than my thesis.' The times to finishing at MUN are tight. You need to be agressive about making time for, and making progress on, your thesis from the start. But you need balance too. Be deliberate for allowing yourself time to refresh.
 
-At times, your thesis will suck. Many of us _love_ research, but research can't be your only thing. Diversify (hobbies outside of work), so that you're experiencing success in at least one area when the thesis 'sucks'. References about failure in science.
+### Mental health
+If you need help email gradcounselling@mun.ca to set an appointment: https://twitter.com/sgsdean/status/1176493016409923585/photo/1
 
-Mentoring plan.
+## Mentoring plan.
 
 I agree with much of the lab policies for the Bolnick Lab at the University of Connecticut (https://bolnicklab.wordpress.com/2015/10/01/labvalues/)
