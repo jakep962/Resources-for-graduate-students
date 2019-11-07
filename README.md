@@ -36,6 +36,9 @@ The BES guide to reviewing is excellent.
 
 ### Computing resources
 
+### Links
+https://sites.google.com/a/d.umn.edu/professional-skills/
+
 ## Being a graduate student in the Biology Department
 
 ## Being a gradute student at MUN
